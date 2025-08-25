@@ -1,0 +1,6 @@
+name "lightweight-nogc-tools"
+description "Small @nogc-friendly helpers: C-heap buffer/array + non-alloc string ops"
+authors "Royal Simpson Pinto"
+license "MIT"
+targetType "library"
+dlang "latest"
